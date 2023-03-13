@@ -1,1 +1,2 @@
-# douban_top250
+# Federated Training in LAN
+This is a project for federated training in LAN environment.
