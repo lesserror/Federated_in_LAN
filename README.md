@@ -1,6 +1,7 @@
 # Federated Training in LAN
 This is a project for federated training in LAN environment.
 
+```bash
 ├─Client_1
 │  │  Client_1.py
 │  │  ModelTrain.py
@@ -77,3 +78,4 @@ This is a project for federated training in LAN environment.
                     9.npy
                     Client_0_9.npy
                     Client_1_9.npy
+```
