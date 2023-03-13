@@ -1,6 +1,9 @@
 # Federated Training in LAN
 This is a project for federated training in LAN environment.
 
+** Result **
+![federated learning](/result.png "federated learning")
+
 ```bash
 ├─Client_1
 │  │  Client_1.py
